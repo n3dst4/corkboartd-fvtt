@@ -1,0 +1,9 @@
+node_modules
+foundryconfig.json
+/dist
+package
+stats.json
+build
+stats.html
+stats
+.swc

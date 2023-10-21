@@ -1,0 +1,37 @@
+{
+  "id": "corkboard",
+  "title": "Corkboard",
+  "description": "A collection of tools to help you use Foundry VTT's canvas like shared corkboard.",
+  "version": "0.0.1",
+  "authors": [{ "name": "Neil de Carteret" }],
+  "scripts": [],
+  "esmodules": ["corkboard.js"],
+  "styles": [],
+  "socket": true,
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11",
+    "maximum": "11"
+  },
+  "url": "https://github.com/n3dst4/corkboard-fvtt",
+  "manifest": "https://github.com/n3dst4/corkboard-fvtt/releases/latest/download/module.json",
+  "download": "https://github.com/n3dst4/corkboard-fvtt/releases/latest/download/investigator.zip",
+  "license": "MIT",
+  "readme": "https://github.com/n3dst4/corkboard-fvtt/blob/main/README.md",
+  "bugs": "https://github.com/n3dst4/corkboard-fvtt/issues",
+  "changelog": "https://github.com/n3dst4/corkboard-fvtt/blob/main/CHANGELOG.md",
+  "media": [
+    {
+      "type": "cover",
+      "url": "https://raw.githubusercontent.com/n3dst4/corkboard-fvtt/main/assets/cover.webp"
+    }
+  ]
+}
